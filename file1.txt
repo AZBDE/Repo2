@@ -1,8 +1,3 @@
 Hello World!
-<<<<<<< HEAD
+
 User22 dded. Change from branch add-feature1
-=======
-User2 added
-Line from User11
-User2 adde. Good morning! (from branch add-feature1!)
->>>>>>> add-feature1
