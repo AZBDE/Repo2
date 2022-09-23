@@ -1,2 +1,2 @@
 Goodbye!
-
+Line from User2
