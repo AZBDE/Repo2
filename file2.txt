@@ -1,2 +1,4 @@
 Goodbye!
 Line from User2
+critical bug fixed
+
