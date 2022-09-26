@@ -3,6 +3,8 @@ Hello World!
 
 User22 dded. Changegaaaaa from branch add-fooaaaa
 New feature1
+Line from User2 Lesson about Rebase
+
 
 Line from User1
 #
